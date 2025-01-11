@@ -1,4 +1,4 @@
-# SmartGreenhouse
+# SmartGreenhouse:
 
 This project programs a Raspberry Pi with two sensors (DHT11 and a soil humidity sensor) to measure temperature and soil humidity. Additionally, an AI model is used for real-time analysis via a connected camera.
 
